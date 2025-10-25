@@ -33,6 +33,13 @@ A responsive React application demonstrating component architecture, state manag
 
 ## 🚀 Setup
 
+Live Demo: [Task Manager App](https://hesbonrandy.github.io/Week-3-MERN-Assignment/)
+
+1. Clone the repo
+2. Install dependencies:
+   ```bash
+   npm install
+// ...existing code...
 1. Clone the repo
 2. Install dependencies:
    ```bash
