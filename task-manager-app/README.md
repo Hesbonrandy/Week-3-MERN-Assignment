@@ -39,8 +39,3 @@ Live Demo: [Task Manager App](https://hesbonrandy.github.io/Week-3-MERN-Assignme
 2. Install dependencies:
    ```bash
    npm install
-// ...existing code...
-1. Clone the repo
-2. Install dependencies:
-   ```bash
-   npm install
